@@ -3,7 +3,7 @@
 [![Build](https://github.com/molstar/molstar/actions/workflows/node.yml/badge.svg)](https://github.com/molstar/molstar/actions/workflows/node.yml)
 [![Gitter](https://badges.gitter.im/molstar/Lobby.svg)](https://gitter.im/molstar/Lobby)
 
-# Mol*
+# Mol* (uibcdf)
 
 The goal of **Mol\*** (*/'mol-star/*) is to provide a technology stack that serves as a basis for the next-generation data delivery and analysis tools for (not only) macromolecular structure data. Mol* development was jointly initiated by PDBe and RCSB PDB to combine and build on the strengths of [LiteMol](https://litemol.org) (developed by PDBe) and [NGL](https://nglviewer.org) (developed by RCSB PDB) viewers.
 
